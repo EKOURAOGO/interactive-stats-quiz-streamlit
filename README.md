@@ -1,4 +1,4 @@
-# Interactive Stats Quiz — Application Streamlit
+# Interactive Stats Quiz - Application Streamlit
 
 Application interactive de quiz sur les **statistiques et probabilités** développée avec Streamlit — questions à choix unique, suivi de score en temps réel, filtrage par thème.
 
